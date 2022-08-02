@@ -1,0 +1,2 @@
+CxHy-gen4-rss-md.data.tar.gz	all-CH8-CH16-AIMD.data.tar.gz were only used to train MLP V2,
+and the rest were used to train both V1 and V2.
